@@ -49,6 +49,6 @@ class ShoppingCart {
         cart.addItem("Banana", 1.2, 6); // Adding Banana
         cart.displayTotalCost(); // Display total cost
         cart.removeItem("Apple"); // Removing Apple
-        cart.displayTotalCost(); // Display total cost after removal
+        cart.displayTotalCost(); // Display total cost after removal   
     }
 }
